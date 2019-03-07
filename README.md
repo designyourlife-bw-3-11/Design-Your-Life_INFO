@@ -1,7 +1,12 @@
 # Design-Your-Life_INFO
 
-## Trello
+##Links
+### Trello
   - https://trello.com/b/nfklVmdG/design-your-life
+### Milestones
+  - https://www.notion.so/Build-week-Schedule-and-Daily-Milestones-7f0aca2ad598459fa4492fdac9881d5b
+### Procedures/rubrics
+  - https://www.notion.so/Policies-and-Procedures-19e679fc1a284b668d8132dd8d7228cd
 
 ## Pitch
 - Based on the Design Your Life course at Stanford, this app helps you figure out which activites bring you enjoyment, energy, and engagement. These clues are the first step you need to take to design your ideal ife. The journal includes an activity log and a reflection log.
