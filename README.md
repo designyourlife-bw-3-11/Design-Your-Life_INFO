@@ -22,7 +22,8 @@
 - Do APIs require you to contact its maintainer to gain access?
 - Are you required to pay to use the API?
 - Have you considered using Apple Frameworks? (MapKit, Healthkit, ARKit?)
-For Data Scientists
+
+### For Data Scientists
 
 
 - Describe the Established data source with at least rough data able to be provided on day 1. 
@@ -30,13 +31,14 @@ For Data Scientists
 - Write a description for what the DS problem is (what uncertainty/prediction are we trying to do here? Sentiment analysis? Why is this a useful solution to a problem?)
 - A target (e.g. JSON format or such) for output that DS students can deliver to web/other students for them to ingest and use in the app
 
-Target Audience
+### Target Audience
 
 - Who is your target audience? Be specific.
+    anyone insteresed in improving how they use their energy
 - What feedback have you gotten from potential users?
 - Have you validated the problem and your solution with your target audience? How?
 
-Research
+### Research
 
 - Research thouroughly before writing a single line of code. Solidify the features of your app conceptually before implementation. Spend the weekend researching so you can hit the ground running on Monday.
 Prototype Key Feature(s)
