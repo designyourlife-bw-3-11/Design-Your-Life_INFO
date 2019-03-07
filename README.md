@@ -1,6 +1,6 @@
 # Design-Your-Life_INFO
 
-##Links
+## Links
 ### Trello
   - https://trello.com/b/nfklVmdG/design-your-life
 ### Milestones
