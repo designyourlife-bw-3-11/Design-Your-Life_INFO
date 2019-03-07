@@ -4,19 +4,19 @@
   - [] https://trello.com/b/nfklVmdG/design-your-life
 
 ## Technical Design Document
-###Proposal
+### Proposal
 
 - What problem does your app solve?
 - Be as specific as possible; how does your app solve the problem?
 - What is the mission statement?
 
-###Features
+### Features
 
 - What features are required for your minimum viable product?
 - What features may you wish to put in a future release?
 - What do the top 3 similar apps do for their users?
 
-###Frameworks
+### Frameworks
 
 - What 3rd party frameworks are you considering using?
 - Do APIs require you to contact its maintainer to gain access?
