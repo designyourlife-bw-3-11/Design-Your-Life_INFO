@@ -34,7 +34,7 @@
 ### Target Audience
 
 - Who is your target audience? Be specific.
-    -- anyone insteresed in improving how they use their energy
+    - anyone insteresed in improving how they use their energy
 - What feedback have you gotten from potential users?
 - Have you validated the problem and your solution with your target audience? How?
 
