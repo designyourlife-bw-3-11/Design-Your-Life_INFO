@@ -15,4 +15,4 @@
 
 ## Technical Design Document
 
-### https://docs.google.com/document/d/10hq82IWA-J7HJsQZdBZNK2mJjWlXBLD8vrJ5_FP05fc/edit#
+### https://docs.google.com/document/d/10hq82IWA-J7HJsQZdBZNK2mJjWlXBLD8vrJ5_FP05fc/edit?usp=sharing
