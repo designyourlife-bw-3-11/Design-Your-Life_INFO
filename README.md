@@ -2,7 +2,8 @@
 
 ## Links
 ### Trello
-  - https://trello.com/b/nfklVmdG/design-your-life
+  - invite : https://trello.com/invite/b/nfklVmdG/e50aac54dc01454acbb631ce8bbfcff6/design-your-life
+  - Link: https://trello.com/b/nfklVmdG/design-your-life
 ### Milestones
   - https://www.notion.so/Build-week-Schedule-and-Daily-Milestones-7f0aca2ad598459fa4492fdac9881d5b
 ### Procedures/rubrics
