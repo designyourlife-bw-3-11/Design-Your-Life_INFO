@@ -19,6 +19,6 @@
 ### https://docs.google.com/document/d/10hq82IWA-J7HJsQZdBZNK2mJjWlXBLD8vrJ5_FP05fc/edit?usp=sharing
  
 ## Project Links
-### Landing Page: 
-### Frontend: 
+### Landing Page: https://cranky-johnson-7e0213.netlify.com/
+### Frontend: https://jovial-raman-091b2e.netlify.com/
 ### Backend: https://bw-designyourlife-api.herokuapp.com/
