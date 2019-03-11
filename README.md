@@ -18,4 +18,6 @@
 ### https://docs.google.com/document/d/10hq82IWA-J7HJsQZdBZNK2mJjWlXBLD8vrJ5_FP05fc/edit?usp=sharing
  
 ## Project Links
-### https://bw-designyourlife-api.herokuapp.com/
+### Landing Page: 
+### Frontend: 
+### Backend: https://bw-designyourlife-api.herokuapp.com/
