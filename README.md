@@ -20,5 +20,5 @@
  
 ## Project Links
 ### Landing Page: https://cranky-johnson-7e0213.netlify.com/
-### Frontend: https://jovial-raman-091b2e.netlify.com/
+### Frontend: https://romantic-bohr-a7a26c.netlify.com/
 ### Backend: https://bw-designyourlife-api.herokuapp.com/
